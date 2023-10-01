@@ -4,7 +4,7 @@ public class MergeSortedArray {
         for (int i=0; i<nums1.length; i++)
             System.out.println(nums1[i]);
     }
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
+    public static int[] merge(int[] nums1, int m, int[] nums2, int n) {
         int i = nums1.length - 1, j = nums2.length - 1;
         int idx = m + n - 1;
         while ( n > 0 ) {
@@ -17,5 +17,6 @@ public class MergeSortedArray {
             }
             idx--;
         }
+        return nums1;
     }
 }
