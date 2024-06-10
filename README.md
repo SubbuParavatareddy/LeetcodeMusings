@@ -24,4 +24,9 @@ Some funny, some not so but keeping it real.
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/paravats123/LeetcodeMusings/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/paravats123/LeetcodeMusings/tree/master/0682-baseball-game) |
+# String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/paravats123/LeetcodeMusings/tree/master/0020-valid-parentheses) |
