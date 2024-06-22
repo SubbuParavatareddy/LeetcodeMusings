@@ -1,12 +1,13 @@
+import java.util.Hashtable;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        boolean visited[] = new boolean[nums.length];
-        Arrays.sort(nums);
-
-        for (int i = 0; i < nums.length-1; i++) {
-            if(nums[i]==nums[i+1])
+        Hashtable<Integer, Integer> hTable = 
+        new Hashtable<>();
+        for (int i:nums){
+            if(hTable.containsKey(i))
                 return true;
+            hTable.put(i, 1);
         }
-        return false; 
+        return false;
     }
 }
