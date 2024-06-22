@@ -9,6 +9,7 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/paravats123/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/paravats123/LeetcodeMusings/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/paravats123/LeetcodeMusings/tree/master/2058-concatenation-of-array) |
 # Two Pointers
@@ -47,3 +48,11 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/paravats123/LeetcodeMusings/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
+# Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/paravats123/LeetcodeMusings/tree/master/0217-contains-duplicate) |
+# Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/paravats123/LeetcodeMusings/tree/master/0217-contains-duplicate) |
