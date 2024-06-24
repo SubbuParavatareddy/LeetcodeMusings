@@ -18,6 +18,7 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
+| [0908-middle-of-the-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0908-middle-of-the-linked-list) |
 # Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Some funny, some not so but keeping it real.
 | [0021-merge-two-sorted-lists](https://github.com/paravats123/LeetcodeMusings/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0908-middle-of-the-linked-list) |
 # Recursion
 |  |
 | ------- |
