@@ -19,6 +19,7 @@ Some funny, some not so but keeping it real.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/paravats123/LeetcodeMusings/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0908-middle-of-the-linked-list) |
 # Simulation
@@ -47,6 +48,7 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/paravats123/LeetcodeMusings/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/paravats123/LeetcodeMusings/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0838-design-linked-list) |
