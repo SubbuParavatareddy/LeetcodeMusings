@@ -70,3 +70,14 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0217-contains-duplicate](https://github.com/paravats123/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/paravats123/LeetcodeMusings/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
