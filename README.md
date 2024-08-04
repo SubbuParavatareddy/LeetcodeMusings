@@ -81,4 +81,16 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
