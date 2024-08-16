@@ -97,6 +97,7 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +110,5 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
