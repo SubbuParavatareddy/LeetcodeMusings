@@ -85,6 +85,7 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Some funny, some not so but keeping it real.
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
@@ -111,4 +113,8 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
