@@ -4,10 +4,8 @@ class Solution {
         int currMax = nums[0];
 
         for (int i=1; i<nums.length; i++){
-            if (currMax<0)
-                currMax = 0;
-            currMax = nums[i] + currMax;
-            maxSum = Math.max(currMax, maxSum);
+            currMax = Math.max(nums[i], currMax+nums[i]);
+            maxSum = Math.max(maxSum, currMax);
         }
 
         return maxSum;
