@@ -95,12 +95,14 @@ Some funny, some not so but keeping it real.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0053-maximum-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/paravats123/LeetcodeMusings/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
@@ -125,4 +127,8 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
