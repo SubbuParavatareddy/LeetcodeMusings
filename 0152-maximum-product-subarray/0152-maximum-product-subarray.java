@@ -1,23 +1,28 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max = Integer.MIN_VALUE;
-    
-        int product=1;
-        
-        for(int num : nums){
-            product *= num;
-            max = Math.max(product,max);
-            if(product == 0)product = 1;
-            
+        int maxProduct = nums[0]; 
+        int minProduct = nums[0];
+        int answer = nums[0];
+      
+        // Iterate through the array starting from the second element.
+        for (int i = 1; i < nums.length; ++i) {
+            // Store the current max and min before updating them.
+            int currentMax = maxProduct;
+            int currentMin = minProduct;
+          
+            // Update the maxProduct to be the maximum between the current number, 
+            // currentMax multiplied by the current number, and currentMin multiplied 
+            // by the current number. This accounts for both positive and negative numbers.
+            maxProduct = Math.max(nums[i], Math.max(currentMax * nums[i], currentMin * nums[i]));
+          
+            // Update the minProduct similarly by choosing the minimum value.
+            minProduct = Math.min(nums[i], Math.min(currentMax * nums[i], currentMin * nums[i]));
+          
+            // Update the answer if the newly found maxProduct is greater than the previous answer.
+            answer = Math.max(answer, maxProduct);
         }
-        
-        product = 1;
-        for(int i=nums.length-1;i>=0;i--){
-            product *= nums[i];
-            max = Math.max(product,max);
-            if(product ==0) product = 1;
-        }
-        
-        return max;
+      
+        // Return the largest product of any subarray found.
+        return answer;
     }
 }
