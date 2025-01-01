@@ -105,6 +105,7 @@ Some funny, some not so but keeping it real.
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/paravats123/LeetcodeMusings/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/paravats123/LeetcodeMusings/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
@@ -122,6 +123,7 @@ Some funny, some not so but keeping it real.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/paravats123/LeetcodeMusings/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/paravats123/LeetcodeMusings/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
