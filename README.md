@@ -91,6 +91,7 @@ Some funny, some not so but keeping it real.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -144,4 +146,5 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0001-two-sum](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
