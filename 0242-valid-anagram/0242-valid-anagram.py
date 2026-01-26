@@ -3,18 +3,18 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        count = {}
-
-        # Count the frequency of characters in s
+        # Use fixed-size array for lowercase English letters (more efficient than dict)
+        count = [0] * 26
+        
+        # Count frequency of characters in s
         for char in s:
-            count[char] = count.get(char, 0) + 1
-
-        # Decrement the frequency based on characters in t
+            count[ord(char) - ord('a')] += 1
+        
+        # Decrement frequency based on characters in t
         for char in t:
-            if char not in count:
+            idx = ord(char) - ord('a')
+            count[idx] -= 1
+            if count[idx] < 0:
                 return False
-
-            count[char] -= 1
-            if count[char] < 0:
-                return False
+        
         return True
