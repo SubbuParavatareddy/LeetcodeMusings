@@ -77,6 +77,7 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/paravats123/LeetcodeMusings/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
+| [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -151,4 +152,20 @@ Some funny, some not so but keeping it real.
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
+## Design
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
 <!---LeetCode Topics End-->
