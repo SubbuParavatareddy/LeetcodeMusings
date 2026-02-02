@@ -92,6 +92,7 @@ Some funny, some not so but keeping it real.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
@@ -155,6 +156,7 @@ Some funny, some not so but keeping it real.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0020-valid-parentheses) |
 | [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
 ## Design
 |  |
