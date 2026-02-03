@@ -75,6 +75,7 @@ Some funny, some not so but keeping it real.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/paravats123/LeetcodeMusings/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/paravats123/LeetcodeMusings/tree/master/0206-reverse-linked-list) |
 | [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
@@ -87,6 +88,7 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 ## String
