@@ -22,13 +22,12 @@ class Solution:
 
         curr = head
         i = 0
-
-        for _ in range(ll_len - k - 1):
+        while i < (ll_len - k - 1):
             curr = curr.next
+            i += 1
 
         new_head = curr.next
         curr.next = None
         tail.next = head
-
 
         return new_head
