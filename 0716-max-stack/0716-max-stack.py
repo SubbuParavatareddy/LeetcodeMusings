@@ -1,14 +1,14 @@
+from sortedcontainers import sortedlist
 class MaxStack:
-
     def __init__(self):
         self.stack = SortedList()
         self.values = SortedList()
-        self.cnt = 0
+        self.index = 0
 
     def push(self, x: int) -> None:
-        self.stack.add((self.cnt, x))
-        self.values.add((x, self.cnt))
-        self.cnt += 1
+        self.stack.add((self.index, x))
+        self.values.add((x, self.index))
+        self.index += 1
 
     def pop(self) -> int:
         idx, val = self.stack.pop()
@@ -25,7 +25,6 @@ class MaxStack:
         val, idx = self.values.pop()
         self.stack.remove((idx, val))
         return val
-
 
 # Your MaxStack object will be instantiated and called as such:
 # obj = MaxStack()
