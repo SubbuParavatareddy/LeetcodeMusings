@@ -89,6 +89,7 @@ Some funny, some not so but keeping it real.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -96,6 +97,7 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
