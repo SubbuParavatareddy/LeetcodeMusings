@@ -124,6 +124,7 @@ Some funny, some not so but keeping it real.
 | [1019-squares-of-a-sorted-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
+| [1708-largest-subarray-length-k](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/1708-largest-subarray-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +177,8 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
+## Greedy
+|  |
+| ------- |
+| [1708-largest-subarray-length-k](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/1708-largest-subarray-length-k) |
 <!---LeetCode Topics End-->
