@@ -97,6 +97,7 @@ Some funny, some not so but keeping it real.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0125-valid-palindrome) |
@@ -133,6 +134,7 @@ Some funny, some not so but keeping it real.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/paravats123/LeetcodeMusings/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -157,6 +159,7 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
