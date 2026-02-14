@@ -7,7 +7,7 @@ class Solution:
 
         def dfs(row, col):
             
-            if  row < 0 or row >= len(image)  or  col < 0 or col >= len(image[0]) or image[row][col] != original_color:
+            if  (row < 0 or row >= len(image))  or  (col < 0 or col >= len(image[0])) or (image[row][col] != original_color):
                 return
             
             image[row][col] = color
