@@ -189,18 +189,22 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
