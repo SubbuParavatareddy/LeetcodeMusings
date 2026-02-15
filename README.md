@@ -123,6 +123,7 @@ Some funny, some not so but keeping it real.
 | [0200-number-of-islands](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/paravats123/LeetcodeMusings/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
 | [0713-subarray-product-less-than-k](https://github.com/paravats123/LeetcodeMusings/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0733-flood-fill) |
 | [0932-monotonic-array](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0932-monotonic-array) |
@@ -167,6 +168,7 @@ Some funny, some not so but keeping it real.
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Some funny, some not so but keeping it real.
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
 | [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
 ## Doubly-Linked List
 |  |
@@ -226,4 +229,12 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
