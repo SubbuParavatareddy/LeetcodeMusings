@@ -100,6 +100,7 @@ Some funny, some not so but keeping it real.
 | [0003-longest-substring-without-repeating-characters](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/paravats123/LeetcodeMusings/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@ Some funny, some not so but keeping it real.
 | [0027-remove-element](https://github.com/paravats123/LeetcodeMusings/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/paravats123/LeetcodeMusings/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
@@ -206,16 +208,22 @@ Some funny, some not so but keeping it real.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
