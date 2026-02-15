@@ -26,7 +26,7 @@ class MaxStack:
         val, idx = self.max_stack.pop()
         self.stack.remove((idx, val))
         return val
-
+        
 # Your MaxStack object will be instantiated and called as such:
 # obj = MaxStack()
 # obj.push(x)
