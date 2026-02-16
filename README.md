@@ -124,6 +124,7 @@ Some funny, some not so but keeping it real.
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/paravats123/LeetcodeMusings/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0713-subarray-product-less-than-k](https://github.com/paravats123/LeetcodeMusings/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0733-flood-fill) |
 | [0932-monotonic-array](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0932-monotonic-array) |
@@ -169,6 +170,7 @@ Some funny, some not so but keeping it real.
 | [0217-contains-duplicate](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0716-max-stack](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0716-max-stack) |
 ## Doubly-Linked List
 |  |
@@ -233,8 +236,10 @@ Some funny, some not so but keeping it real.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
