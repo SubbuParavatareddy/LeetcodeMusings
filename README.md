@@ -132,6 +132,7 @@ Some funny, some not so but keeping it real.
 | [1046-max-consecutive-ones-iii](https://github.com/paravats123/LeetcodeMusings/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/paravats123/LeetcodeMusings/tree/master/1603-running-sum-of-1d-array) |
 | [1708-largest-subarray-length-k](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/1708-largest-subarray-length-k) |
+| [1929-concatenation-of-array](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,4 +243,8 @@ Some funny, some not so but keeping it real.
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/SubbuParavatareddy/LeetcodeMusings/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
